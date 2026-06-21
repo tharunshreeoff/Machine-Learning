@@ -210,7 +210,7 @@ Jupyter Notebook
 Clone Repository
 
 ```bash
-git clone https://github.com/tharunshree13/ML.git
+git clone https://github.com/tharunshree13/Machine-Learning.git
 ```
 
 Navigate to Repository
